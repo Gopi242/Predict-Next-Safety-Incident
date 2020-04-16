@@ -6,9 +6,10 @@ Tech stack used : Python packages - numpy, pandas, matplotlib, nltk, gensim, pyL
 Keywords : Visualizations, NLP, Text data, Lemmatization,Tokenization, Word cloud, High frequency words, N-grams, Text topics, Topic modeling, LDA, Bag of words, TF-IDF
 
 Training Data : Past Safety incidents
+
 Test Data : Current hazards (potential safety incidents) recorded 
 
-Methodlogy : 
+Methodology : 
 
 1) Pre-processing and Visualization of Text data field in training data set 
 2) Feature extraction and Text Modeling using NLP techniques on training data
