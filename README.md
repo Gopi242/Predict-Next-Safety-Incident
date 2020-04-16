@@ -13,6 +13,6 @@ Methodology :
 
 1) Pre-processing and Visualization of Text data in training data set 
 2) Feature extraction and Text Modeling using NLP techniques on training data
-3) Pre-processing and applying the model on test dataset
+3) Pre-processing test data and running the trained model on it
 4) Fetch the observation with maximum coherency score in test data set. This hazard has the maximum similarity to a past safety incident.
-5) Action needs to be taken for all hazards with high scores to avoid recurrence of similar accidents in future.
+5) Action needs to be taken for hazards with high scores to avoid recurrence of similar accidents in future.
